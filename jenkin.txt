@@ -1,2 +1,0 @@
-The version of Jenkins included with the default Ubuntu packages is often behind the latest available version from the project itself.
- To ensure you have the latest fixes and features, use the project-maintained packages to install Jenkins.
